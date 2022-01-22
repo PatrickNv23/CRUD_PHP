@@ -37,6 +37,7 @@ body{
 
 
 
+/*MAIN */
 .main{
     width: 100%;
     height: 100%;
@@ -157,11 +158,20 @@ body{
 
 .eliminar{
     padding-left: 10px;
-    color: #FF3E3E;
+   color: #FF3E3E;
 }
 
 .fas{
     font-size: 20px;
+}
+
+
+.article_formularioEditar{
+    width: 100%;
+    margin-top: 20px;
+    min-height: 400px;
+    max-height: auto;
+    background-color: rgb(37, 150, 190);
 }
 
 
